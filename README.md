@@ -72,8 +72,8 @@ O programa segue um fluxo sequencial de 4 fases bem definidas:
 ## 🎨 Apresentação do Projeto
 
 <p align="center">
-  <a href="[https://canva.link/vj5erxl6t566k49](https://canva.link/vj5erxl6t566k49)" target="_blank">
-    <img src="[https://img.shields.io/badge/Apresentação_no_Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white](https://img.shields.io/badge/Apresentação_no_Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)" alt="Link da Apresentação no Canva" />
+  <a href="https://canva.link/vj5erxl6t566k49" target="_blank">
+    <img src="https://img.shields.io/badge/Apresentação_no_Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Link da Apresentação no Canva" />
   </a>
 </p>
 
